@@ -70,7 +70,7 @@ int b=input.nextInt();
 			System.out.println("Enter your choice +,-,*,//,q");
 			action = sc.next().charAt(0);
 		}
-		System.out.println("thank you");
+		System.out.println("thank you very much");
 		sc.close();
 
 	}
